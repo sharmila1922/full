@@ -49,11 +49,11 @@ requirements = python3,kivy,kivymd,boto3,plyer,pymysql,botocore==1.32.6,certifi=
 # requirements.source.kivy = ../../kivy
 
 # (str) Presplash of the application
-#presplash.filename = %(source.dir)s/home/sharmi/PycharmProjects/project_app/static/myfiles/17.jpg
+#presplash.filename = %(source.dir)s/home/sharmi/PycharmProjects/full/static/myfiles/17.jpg
 
 
 # (str) Icon of the application
-#icon.filename = %(source.dir)s/home/sharmi/PycharmProjects/project_app/static/myfiles/1.png
+#icon.filename = %(source.dir)s/home/sharmi/PycharmProjects/full/static/myfiles/1.png
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
